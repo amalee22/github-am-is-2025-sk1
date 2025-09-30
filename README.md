@@ -7,3 +7,5 @@ Změna provedená na lokále 2025-09-24
 i hate this shit
 
 cristian
+
+now github to vscode/git  push n pull test 
