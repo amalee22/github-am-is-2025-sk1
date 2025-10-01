@@ -9,4 +9,5 @@ i hate this shit
 cristian
 
 now github to vscode/git  push n pull test 
+
 úprava 1.10.2025
