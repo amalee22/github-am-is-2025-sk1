@@ -69,7 +69,8 @@ Console.Write("Zadejte diferenci (celé číslo): ");
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu 'a'.");
 
-    again = Console.ReadLine() ?? "";
+    again = Console.ReadLine() ?? ""; 
+    //meow
 
     //zkouška pushe
 }
